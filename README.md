@@ -1,5 +1,5 @@
 
-# 🔎 GenAI Search Agent 🤖
+# 🔎 AI Search Agent 🤖
 
 An AI-powered search application built with **Streamlit**.  
 You can enter any query, and the agent fetches intelligent results using `get_search_results`.
